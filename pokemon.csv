@@ -1,0 +1,152 @@
+No.,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Evolves From,Generation,Legendary,Description
+1,Bulbasaur,Grass,Poison,318,45,49,49,65,65,45,,1,False,It can go for days without eating a single morsel. In the bulb on its back; it stores energy.
+2,Ivysaur,Grass,Poison,405,60,62,63,80,80,60,1,1,False,The bulb on its back grows by drawing energy. It gives off an aroma when it is ready to bloom.
+3,Venusaur,Grass,Poison,525,80,82,83,100,100,80,2,1,False,The flower on its back catches the sun’s rays. The sunlight is then absorbed and used for energy.
+4,Charmander,Fire,,309,39,52,43,60,50,65,,1,False,The flame at the tip of its tail makes a sound as it burns. You can only hear it in quiet places.
+5,Charmeleon,Fire,,405,58,64,58,80,65,80,4,1,False,Tough fights could excite this POKéMON. When excited; it may blow out bluish-white flames.
+6,Charizard,Fire,Flying,534,78,84,78,109,85,100,5,1,False,When expelling a blast of super hot fire; the red flame at the tip of its tail burns more intensely.
+7,Squirtle,Water,,314,44,48,65,50,64,43,,1,False,Shoots water at prey while in the water. Withdraws into its shell when in danger.
+8,Wartortle,Water,,405,59,63,80,65,80,58,7,1,False,When tapped; this POKéMON will pull in its head; but its tail will still stick out a little bit.
+9,Blastoise,Water,,530,79,83,100,85,105,78,8,1,False,Once it takes aim at its enemy; it blasts out water with even more force than a fire hose.
+10,Caterpie,Bug,,195,45,30,35,20,20,45,,1,False,If you touch the feeler on top of its head; it will release a horrible stink to protect itself.
+11,Metapod,Bug,,205,50,20,55,25,25,30,10,1,False,Hardens its shell to protect itself. However; a large impact may cause it to pop out of its shell.
+12,Butterfree,Bug,Flying,395,60,45,50,90,80,70,11,1,False,Its wings; covered with poisonous powders; repel water. This allows it to fly in the rain.
+13,Weedle,Bug,Poison,195,40,35,30,20,20,50,,1,False,Beware of the sharp stinger on its head. It hides in grass and bushes where it eats leaves.
+14,Kakuna,Bug,Poison,205,45,25,50,25,25,35,13,1,False,Able to move only slightly. When endangered; it may stick out its stinger and poison its enemy.
+15,Beedrill,Bug,Poison,395,65,90,40,45,80,75,14,1,False,It has 3 poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.
+16,Pidgey,Normal,Flying,251,40,45,40,35,35,56,,1,False,Very docile. If attacked; it will often kick up sand to protect itself rather than fight back.
+17,Pidgeotto,Normal,Flying,349,63,60,55,50,50,71,16,1,False,This POKéMON is full of vitality. It constantly flies around its large territory in search of prey.
+18,Pidgeot,Normal,Flying,479,83,80,75,70,70,101,17,1,False,This POKéMON flies at Mach 2 speed; seeking prey. Its large talons are feared as wicked weapons.
+19,Rattata,Normal,,253,30,56,35,25,35,72,,1,False,Will chew on anything with its fangs. If you see one; it is certain that 40 more live in the area.
+20,Raticate,Normal,,413,55,81,60,50,70,97,19,1,False,Its hind feet are webbed. They act as flippers; so it can swim in rivers and hunt for prey.
+21,Spearow,Normal,Flying,262,40,60,30,31,31,70,,1,False,Inept at flying high. However; it can fly around very fast to protect its territory.
+22,Fearow,Normal,Flying,442,65,90,65,61,61,100,21,1,False,A POKéMON that dates back many years. If it senses danger; it flies high and away; instantly.
+23,Ekans,Poison,,288,35,60,44,40,54,55,,1,False,The older it gets; the longer it grows. At night; it wraps its long body around tree branches to rest.
+24,Arbok,Poison,,438,60,85,69,65,79,80,23,1,False,The frightening patterns on its belly have been studied. Six variations have been confirmed.
+25,Pikachu,Electric,,320,35,55,40,50,50,90,,1,False,It keeps its tail raised to monitor its surroundings. If you yank its tail; it will try to bite you.
+26,Raichu,Electric,,485,60,90,55,90,80,110,25,1,False,When electricity builds up inside its body; it becomes feisty. It also glows in the dark.
+27,Sandshrew,Ground,,300,50,75,85,20,30,40,,1,False,Its body is dry. When it gets cold at night; its hide is said to become coated with a fine dew.
+28,Sandslash,Ground,,450,75,100,110,45,55,65,27,1,False,It is skilled at slashing enemies with its claws. If broken; they start to grow back in a day.
+29,Nidoran♀,Poison,,275,55,47,52,40,40,41,,1,False,A mild-mannered POKéMON that does not like to fight. Beware; its small horns secrete venom.
+30,Nidorina,Poison,,365,70,62,67,55,55,56,29,1,False,When resting deep in its burrow; its thorns always retract. This is proof that it is relaxed.
+31,Nidoqueen,Poison,Ground,505,90,92,87,75,85,76,30,1,False,Tough scales cover the sturdy body of this POKéMON. It appears that the scales grow in cycles.
+32,Nidoran♂,Poison,,273,46,57,40,40,40,50,,1,False,Its large ears are always kept upright. If it senses danger; it will attack with a poisonous sting.
+33,Nidorino,Poison,,365,61,72,57,55,55,65,32,1,False,Its horns contain venom. If they are stabbed into an enemy; the impact makes the poison leak out.
+34,Nidoking,Poison,Ground,505,81,102,77,85,75,85,33,1,False,Its steel-like hide adds to its powerful tackle. Its horns are so hard; they can pierce a diamond.
+35,Clefairy,Fairy,,323,70,45,48,60,65,35,,1,False,Adored for their cute looks and playfulness. They are thought to be rare; as they do not appear often.
+36,Clefable,Fairy,,483,95,70,73,95,90,60,35,1,False,They appear to be very protective of their own world. It is a kind of fairy; rarely seen by people.
+37,Vulpix,Fire,,299,38,41,40,50,65,65,,1,False,Both its fur and its tails are beautiful. As it grows; the tails split and form more tails.
+38,Ninetales,Fire,,505,73,76,75,81,100,100,37,1,False,According to an enduring legend; 9 noble saints were united and reincarnated as this POKéMON.
+39,Jigglypuff,Normal,Fairy,270,115,45,20,45,25,20,,1,False,Uses its alluring eyes to enrapture its foe. It then sings a pleasing melody that lulls the foe to sleep.
+40,Wigglytuff,Normal,Fairy,435,140,70,45,85,50,45,39,1,False,Its body is full of elasticity. By inhaling deeply; it can continue to inflate itself without limit.
+41,Zubat,Poison,Flying,245,40,45,35,30,40,55,,1,False,Emits ultrasonic cries while it flies. They act as a sonar used to check for objects in its way.
+42,Golbat,Poison,Flying,455,75,80,70,65,75,90,41,1,False,It attacks in a stealthy manner; without warning. Its sharp fangs are used to bite and suck blood.
+43,Oddish,Grass,Poison,320,45,50,55,75,65,30,,1,False,It may be mistaken for a clump of weeds. If you try to yank it out of the ground; it shrieks horribly.
+44,Gloom,Grass,Poison,395,60,65,70,85,75,40,43,1,False,Smells incredibly foul! However; around 1 out of 1;000 people enjoy sniffing its nose-bending stink.
+45,Vileplume,Grass,Poison,490,75,80,85,110,90,50,44,1,False,Flaps its broad flower petals to scatter its poisonous pollen. The flapping sound is very loud.
+46,Paras,Bug,Grass,285,35,70,55,45,55,25,,1,False,Burrows under the ground to gnaw on tree roots. The mushrooms on its back absorb most of the nutrition.
+47,Parasect,Bug,Grass,405,60,95,80,60,80,30,46,1,False,The bug host is drained of energy by the mushrooms on its back. They appear to do all the thinking.
+48,Venonat,Bug,Poison,305,60,55,50,40,55,45,,1,False,Its large eyes act as radars. In a bright place; you can see that they are clusters of many tiny eyes.
+49,Venomoth,Bug,Poison,450,70,65,60,90,75,90,48,1,False,The powdery scales on its wings are hard to remove. They also contain poison that leaks out on contact.
+50,Diglett,Ground,,265,10,55,25,35,45,95,,1,False,It prefers dark places. It spends most of its time underground; though it may pop up in caves.
+51,Dugtrio,Ground,,405,35,80,50,50,70,120,50,1,False,A team of triplets that can burrow over 60 MPH. Due to this; some people think it’s an earthquake.
+52,Meowth,Normal,,290,40,45,35,40,40,90,,1,False,Appears to be more active at night. It loves round and shiny things. It can’t stop from picking them up.
+53,Persian,Normal,,440,65,70,60,65,65,115,52,1,False,The gem in its forehead glows on its own! It walks with all the grace and elegance of a proud queen.
+54,Psyduck,Water,,320,50,52,48,65,50,55,,1,False,Always tormented by headaches. It uses psychic powers; but it is not known if it intends to do so.
+55,Golduck,Water,,500,80,82,78,95,80,85,54,1,False,Its slim and long limbs end in broad flippers. They are used for swimming gracefully in lakes.
+56,Mankey,Fighting,,305,40,80,35,35,45,70,,1,False,An agile POKéMON that lives in trees. It angers easily and will not hesitate to attack anything.
+57,Primeape,Fighting,,455,65,105,60,60,70,95,56,1,False,It stops being angry only when nobody else is around. To view this moment is very difficult.
+58,Growlithe,Fire,,350,55,70,45,70,50,60,,1,False,A POKéMON with a friendly nature. However; it will bark fiercely at anything invading its territory.
+59,Arcanine,Fire,,555,90,110,80,100,80,95,58,1,False,A legendary POKéMON in China. Many people are charmed by its grace and beauty while running.
+60,Poliwag,Water,,300,40,50,40,40,40,90,,1,False,The direction of the spiral on the belly differs by area. It is more adept at swimming than walking.
+61,Poliwhirl,Water,,385,65,65,65,50,50,90,60,1,False,Under attack; it uses its belly spiral to put the foe to sleep. It then makes its escape.
+62,Poliwrath,Water,Fighting,510,90,95,95,70,90,70,61,1,False,Swims powerfully using all the muscles in its body. It can even overtake champion swimmers.
+63,Abra,Psychic,,310,25,20,15,105,55,90,,1,False,Sleeps 18 hours a day. If it senses danger; it will teleport itself to safety even as it sleeps.
+64,Kadabra,Psychic,,400,40,35,30,120,70,105,63,1,False,Many odd things happen if this POKéMON is close by. For example; it makes clocks run backwards.
+65,Alakazam,Psychic,,500,55,50,45,135,95,120,64,1,False,A POKéMON that can memorize anything. It never forgets what it learns--that’s why this POKéMON is smart.
+66,Machop,Fighting,,305,70,80,50,35,35,35,,1,False,Very powerful in spite of its small size. Its mastery of many types of martial arts makes it very tough.
+67,Machoke,Fighting,,405,80,100,70,50,60,45,66,1,False,The belt around its waist holds back its energy. Without it; this POKéMON would be unstoppable.
+68,Machamp,Fighting,,505,90,130,80,65,85,55,67,1,False,One arm alone can move mountains. Using all four arms; this POKéMON fires off awesome punches.
+69,Bellsprout,Grass,Poison,300,50,75,35,70,30,40,,1,False,Prefers hot and humid places. It ensnares tiny insects with its vines and devours them.
+70,Weepinbell,Grass,Poison,390,65,90,50,85,45,55,69,1,False,When hungry; it swallows anything that moves. Its hapless prey is melted inside by strong acids.
+71,Victreebel,Grass,Poison,490,80,105,65,100,70,70,70,1,False,Lures prey with the sweet aroma of honey. Swallowed whole; the prey is melted in a day; bones and all.
+72,Tentacool,Water,Poison,335,40,40,35,50,100,70,,1,False,It can sometimes be found all dry and shriveled up on a beach. Toss it back into the sea to revive it.
+73,Tentacruel,Water,Poison,515,80,70,65,80,120,100,72,1,False,Its 80 tentacles can stretch and contract freely. They wrap around prey and weaken it with poison.
+74,Geodude,Rock,Ground,300,40,80,100,30,30,20,,1,False,Commonly found near mountain trails; etc. If you step on one by accident; it gets angry.
+75,Graveler,Rock,Ground,390,55,95,115,45,45,35,74,1,False,Often seen rolling down mountain trails. Obstacles are just things to roll straight over; not avoid.
+76,Golem,Rock,Ground,495,80,120,130,55,65,45,75,1,False,Once it sheds its skin; its body turns tender and whitish. Its hide hardens when it’s exposed to air.
+77,Ponyta,Fire,,410,50,85,55,65,65,90,,1,False,Capable of jumping incredibly high. Its hooves and sturdy legs absorb the impact of a hard landing.
+78,Rapidash,Fire,,500,65,100,70,80,80,105,77,1,False,Just loves to run. If it sees something faster than itself; it will give chase at top speed.
+79,Slowpoke,Water,Psychic,315,90,65,65,40,40,15,,1,False,Incredibly slow and sluggish. It is quite content to loll about without worrying about the time.
+80,Slowbro,Water,Psychic,490,95,75,110,100,80,30,79,1,False,Lives lazily by the sea. If the SHELLDER on its tail comes off; it becomes a SLOWPOKE again.
+81,Magnemite,Electric,Steel,325,25,35,70,95,55,45,,1,False,It is born with the ability to defy gravity. It floats in air on powerful electromagnetic waves.
+82,Magneton,Electric,Steel,465,50,60,95,120,70,70,81,1,False,Generates strange radio signals. It raises the temperature by 3.6F degrees within 3;300 feet.
+83,Farfetch'd,Normal,Flying,352,52,65,55,58,62,60,,1,False,Lives where reedy plants grow. They are rarely seen; so it’s thought their numbers are decreasing.
+84,Doduo,Normal,Flying,310,35,85,45,35,35,75,,1,False,Its short wings make flying difficult. Instead; this POKéMON runs at high speed on developed legs.
+85,Dodrio,Normal,Flying,460,60,110,70,60,60,100,84,1,False,One of DODUO’s 2 heads splits to form a unique species. It runs close to 40 MPH in prairies.
+86,Seel,Water,,325,65,45,55,45,70,45,,1,False,Loves freezing cold conditions. Relishes swimming in a frigid climate of around 14F degrees.
+87,Dewgong,Water,Ice,475,90,70,80,70,95,70,86,1,False,Its entire body is a snowy-white. Unharmed by even intense cold; it swims powerfully in icy waters.
+88,Grimer,Poison,,325,80,80,50,40,50,25,,1,False,Made of hardened sludge. It smells too putrid to touch. Even weeds won’t grow in its path.
+89,Muk,Poison,,500,105,105,75,65,100,50,88,1,False,Smells so awful; it can cause fainting. Through degeneration; it lost its sense of smell.
+90,Shellder,Water,,305,30,65,100,45,25,40,,1,False,The shell can withstand any attack. However; when it is open; the tender body is exposed.
+91,Cloyster,Water,Ice,525,50,95,180,85,45,70,90,1,False,For protection; it uses its harder-than-diamonds shell. It also shoots spikes from the shell.
+92,Gastly,Ghost,Poison,310,30,35,30,100,35,80,,1,False,Said to appear in decrepit; deserted buildings. It has no real shape as it appears to be made of a gas.
+93,Haunter,Ghost,Poison,405,45,50,45,115,55,95,92,1,False,By licking; it saps the victim’s life. It causes shaking that won’t stop until the victim’s demise.
+94,Gengar,Ghost,Poison,500,60,65,60,130,75,110,93,1,False,A GENGAR is close by if you feel a sudden chill. It may be trying to lay a curse on you.
+95,Onix,Rock,Ground,385,35,45,160,30,45,70,,1,False,Burrows at high speed in search of food. The tunnels it leaves are used as homes by DIGLETTs.
+96,Drowzee,Psychic,,328,60,48,45,43,90,42,,1,False,If you sleep by it all the time; it will sometimes show you dreams it has eaten in the past.
+97,Hypno,Psychic,,483,85,73,70,73,115,67,96,1,False,Avoid eye contact if you come across one. It will try to put you to sleep by using its pendulum.
+98,Krabby,Water,,325,30,105,90,25,25,50,,1,False,Its pincers are superb weapons. They sometimes break off during battle; but they grow back fast.
+99,Kingler,Water,,475,55,130,115,50,50,75,98,1,False,One claw grew massively and as hard as steel. It has 10;000-HP strength. However; it is too heavy.
+100,Voltorb,Electric,,330,40,30,50,55,55,100,,1,False,It is said to camouflage itself as a POKé BALL. It will self-destruct with very little stimulus.
+101,Electrode,Electric,,480,60,50,70,80,80,140,100,1,False,Stores electrical energy inside its body. Even the slightest shock could trigger a huge explosion.
+102,Exeggcute,Grass,Psychic,325,60,40,80,60,45,40,,1,False,The heads attract each other and spin around. There must be 6 heads for it to maintain balance.
+103,Exeggutor,Grass,Psychic,520,95,95,85,125,65,55,102,1,False,Its cries are very noisy. This is because each of the 3 heads thinks about whatever it likes.
+104,Cubone,Ground,,320,50,50,95,40,50,35,,1,False,Wears the skull of its deceased mother. Its cries echo inside the skull and come out as a sad melody.
+105,Marowak,Ground,,425,60,80,110,50,80,45,104,1,False,Small and weak; this POKéMON is adept with its bone club. It has grown more vicious over the ages.
+106,Hitmonlee,Fighting,,455,50,120,53,35,110,87,,1,False,When kicking; the sole of its foot turns as hard as a diamond on impact and destroys its enemy.
+107,Hitmonchan,Fighting,,455,50,105,79,35,110,76,,1,False,Punches in corkscrew fashion. It can punch its way through a concrete wall in the same way as a drill.
+108,Lickitung,Normal,,385,90,55,75,60,75,30,,1,False,Its tongue spans almost 7 feet and moves more freely than its forelegs. Its licks can cause paralysis.
+109,Koffing,Poison,,340,40,65,95,60,45,35,,1,False,In hot places; its internal gases could expand and explode without any warning. Be very careful!
+110,Weezing,Poison,,490,65,90,120,85,70,60,109,1,False,It lives and grows by absorbing dust; germs and poison gases that are contained in toxic waste and garbage.
+111,Rhyhorn,Ground,Rock,345,80,85,95,30,30,25,,1,False,A POKéMON with a one-track mind. Once it charges; it won’t stop running until it falls asleep.
+112,Rhydon,Ground,Rock,485,105,130,120,45,45,40,111,1,False,Walks on its hind legs. Shows signs of intelligence. Its armor-like hide even repels molten lava.
+113,Chansey,Normal,,450,250,5,5,35,105,50,,1,False,A gentle and kindhearted POKéMON that shares its nutritious eggs if it sees an injured POKéMON.
+114,Tangela,Grass,,435,65,55,115,100,40,60,,1,False,Its identity is obscured by masses of thick; blue vines. The vines are said to never stop growing.
+115,Kangaskhan,Normal,,490,105,95,80,40,80,90,,1,False,Raises its young in its belly pouch. Won’t run from any fight to keep its young protected.
+116,Horsea,Water,,295,30,40,70,70,25,60,,1,False,If it senses any danger; it will vigorously spray water or a special type of ink from its mouth.
+117,Seadra,Water,,440,55,65,95,95,45,85,116,1,False,Touching the back fin causes numbness. It hooks its tail to coral to stay in place while sleeping.
+118,Goldeen,Water,,320,45,67,60,35,50,63,,1,False,When it is time for them to lay eggs; they can be seen swimming up rivers and falls in large groups.
+119,Seaking,Water,,450,80,92,65,65,80,68,118,1,False,It is the male’s job to make a nest by carving out boulders in a stream using the horn on its head.
+120,Staryu,Water,,340,30,45,55,70,55,85,,1,False,As long as the center section is unharmed; it can grow back fully even if it is chopped to bits.
+121,Starmie,Water,Psychic,520,60,75,85,100,85,115,120,1,False,The center section is named the core. People think it is communicating when it glows in 7 colors.
+122,Mr. Mime,Psychic,Fairy,460,40,45,65,100,120,90,,1,False,Always practices its pantomime act. It makes enemies believe something exists that really doesn’t.
+123,Scyther,Bug,Flying,500,70,110,80,55,80,105,,1,False,Leaps out of tall grass and slices prey with its scythes. The movement looks like that of a ninja.
+124,Jynx,Ice,Psychic,455,65,50,35,115,95,95,,1,False,Appears to move to a rhythm of its own; as if it were dancing. It wiggles its hips as it walks.
+125,Electabuzz,Electric,,490,65,83,57,95,85,105,,1,False,If a major power outage occurs; it is certain that this POKéMON has eaten electricity at a power plant.
+126,Magmar,Fire,,495,65,95,57,100,85,93,,1,False,Born in an active volcano. Its body is always cloaked in flames; so it looks like a big ball of fire.
+127,Pinsir,Bug,,500,65,125,100,55,70,85,,1,False,Grips its prey in its pincers and squeezes hard! It can’t move if it’s cold; so it lives in warm places.
+128,Tauros,Normal,,490,75,100,95,40,70,110,,1,False,A rowdy POKéMON with a lot of stamina. Once running; it won’t stop until it hits something.
+129,Magikarp,Water,,200,20,10,55,15,20,80,,1,False,Famous for being very unreliable. It can be found swimming in seas; lakes; rivers and shallow puddles.
+130,Gyarados,Water,Flying,540,95,125,79,60,100,81,129,1,False,Brutally vicious and enormously destructive. Known for totally destroying cities in ancient times.
+131,Lapras,Water,Ice,535,130,85,80,85,95,60,,1,False,A gentle soul that can read the minds of people. It can ferry people across the sea on its back.
+132,Ditto,Normal,,288,48,48,48,48,48,48,,1,False,When it spots an enemy; its body transfigures into an almost perfect copy of its opponent.
+133,Eevee,Normal,,325,55,55,50,45,65,55,,1,False,Its genetic code is unstable; so it could evolve in a variety of ways. There are only a few alive.
+134,Vaporeon,Water,,525,130,65,60,110,95,65,133,1,False,Its cell structure is similar to water molecules. It will melt away and become invisible in water.
+135,Jolteon,Electric,,525,65,65,60,110,95,130,133,1,False,A sensitive POKéMON that easily becomes sad or angry. Every time its mood changes; it charges power.
+136,Flareon,Fire,,525,65,130,60,95,110,65,133,1,False,It has a flame chamber inside its body. It inhales; then blows out fire that is over 3;000F degrees.
+137,Porygon,Normal,,395,65,60,70,85,75,40,,1,False,The only POKéMON people anticipate can fly into space. None has managed the feat yet; however.
+138,Omanyte,Rock,Water,355,35,40,100,90,55,35,,1,False,An ancient POKéMON that was recovered from a fossil. It swims by cleverly twisting its 10 tentacles about.
+139,Omastar,Rock,Water,495,70,60,125,115,70,55,138,1,False,Sharp beaks ring its mouth. Its shell was too big for it to move freely; so it became extinct.
+140,Kabuto,Rock,Water,355,30,80,90,55,45,55,,1,False,A POKéMON that was recovered from a fossil. It uses the eyes on its back while hiding on the sea floor.
+141,Kabutops,Rock,Water,495,60,115,105,65,70,80,140,1,False,A slim and fast swimmer. It slices its prey with its sharp sickles and drinks the body fluids.
+142,Aerodactyl,Rock,Flying,515,80,105,65,60,75,130,,1,False,A savage POKéMON that died out in ancient times. It was resurrected using DNA taken from amber.
+143,Snorlax,Normal,,540,160,110,65,65,110,30,,1,False,Will eat anything; even if the food happens to be a little moldy. It never gets an upset stomach.
+144,Articuno,Ice,Flying,580,90,85,100,95,125,85,,1,True,A legendary bird POKéMON. It freezes water that is contained in winter air and makes it snow.
+145,Zapdos,Electric,Flying,580,90,90,85,125,90,100,,1,True,This legendary bird POKéMON is said to appear when the sky turns dark and lightning showers down.
+146,Moltres,Fire,Flying,580,90,100,90,125,85,90,,1,True,A legendary bird POKéMON. As it flaps its flaming wings; even the night sky will turn red.
+147,Dratini,Dragon,,300,41,64,45,50,50,50,,1,False,The existence of this mythical POKéMON was only recently confirmed by a fisherman who caught one.
+148,Dragonair,Dragon,,420,61,84,65,70,70,70,147,1,False,According to a witness; its body was surrounded by a strange aura that gave it a mystical look.
+149,Dragonite,Dragon,Flying,600,91,134,95,100,100,80,148,1,False,It is said that this POKéMON lives somewhere in the sea and that it flies. However; it is only a rumor.
+150,Mewtwo,Psychic,,680,106,110,90,154,90,130,,1,True,Its DNA is almost the same as MEW’s. However; its size and disposition are vastly different.
+151,Mew,Psychic,,600,100,100,100,100,100,100,,1,False,When viewed through a microscope; this POKéMON’s short; fine; delicate hair can be seen.
